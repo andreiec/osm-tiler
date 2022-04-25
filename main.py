@@ -8,7 +8,7 @@ htmlFile = 'map.html'
 keyboard = Controller()
 
 foliumMap = folium.Map(
-    tiles='https://api.mapbox.com/styles/v1/andreiec/cl2c2f5g5000p14mzejpm2gml/tiles/256/{z}/{x}/{y}@2x?access_token=pk.eyJ1IjoiYW5kcmVpZWMiLCJhIjoiY2o4Nzd2M2g5MTJjZDMzbzA1bnFtYnJuYyJ9.Y6xX5guQFCUhjFvjNuPrgQ',
+    tiles='https://api.mapbox.com/styles/v1/andreiec/xxx/tiles/256/{z}/{x}/{y}@2x?access_token=xxx',
     zoom_start=17,
     max_zoom=17,
     attr='Mapbox Attribution',
